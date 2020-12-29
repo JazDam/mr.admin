@@ -3,6 +3,8 @@
 Mr. admin es una aplicación para administración de presupuesto personal.
 La misma permite crear y editar ingresos y egresos de dinero,
 y muestra un balance resultante de las operaciones registradas.
+La aplicación tambien permite registrarse e iniciar sesión, lista los últimos 10 registros de operaciones
+y permite listarlos por categoría o por el tipo de operación(ingreso o egreso).
 
 ### Construido con
 
