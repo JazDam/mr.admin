@@ -45,9 +45,10 @@ const Operation = (props) => {
                                     Eliminar </Button>
            
             </Col>
+            <hr style={{width: "1300px", height: "0.0.5px", backgroundColor: "#00b4d8"}}></hr>
         
         </Row>
-         <hr style={{width: "1300px", height: "0.0.5px", backgroundColor: "#00b4d8"}}></hr>
+         
         </> 
     )
 }
